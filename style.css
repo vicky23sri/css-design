@@ -60,13 +60,12 @@ p {
 /* Media Query for Desktop (1440px) */
 @media only screen and (min-width: 1440px) and (max-width: 1919px) {
     .card {
-        width: 800px;
-        height: 900px;
+        width: 400px;
+        height: 600px;
     }
 
     img {
-        width: 760px;
-        height: 800px;
+        width: 360px;
+        height: 350px;
     }
 }
-
